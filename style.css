@@ -1,1 +1,10 @@
-
+h1,p{
+  color:DarkSlateGray;
+}
+p{
+  font-size:18px;
+}
+/* This font is so ugly. */
+*{
+  font-family:Georgia;
+}
