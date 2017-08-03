@@ -1,7 +1,10 @@
 .header3text {
     color: #6A8D73;
-    font-family: Arsenal;
+    font-family: Georgia;
     font-size: 18px;
+    line-height: 2px;
+    margin: 25%;
     position: relative;
     text-align: center;
+    top: 25%;
 }
