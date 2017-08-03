@@ -1,3 +1,4 @@
+.hlist {
 ul {
     list-style-type: none;
     margin: 0;
@@ -7,6 +8,8 @@ ul {
 li {
     display: inline;
 }
+}
+
 .dropbtn {
     background-color: #4CAF50;
     color: white;
