@@ -1,2 +1,7 @@
-h3.sansserif {
-    font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif;
+.header3text {
+    color: #6A8D73;
+    font-family: Arsenal;
+    font-size: 18px;
+    position: relative;
+    text-align: center;
+}
