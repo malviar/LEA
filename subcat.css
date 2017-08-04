@@ -49,20 +49,30 @@ ADD TO CSS DOC FOR BUTTON (WILL BE RENAMED LOCATION?)
 */
 
 cat_name {
-font-family: 'Sofia';font-size: 22px;
+  font-family: '';
+  font-size: 40px;
+}
+
+cat_desc{
+  font-family: '';
+  font-size: 30px;
 }
 
 pic{
-
+ 
 }
 
 store_name{
+  font-family: '';
+  font-size: 25px;
 }
 
 description {
-
+  font-family: '';
+  font-size: 20px;
 }
 
 location{
-
+  font-family: '';
+  font-size: 20px;
 }
