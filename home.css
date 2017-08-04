@@ -23,13 +23,10 @@ h1 {
    
 }
 .border div {
-    display: block;
-    /*padding: 5px;
-    clear: right;
-    width: 100%;
+    width: 50%;
     border-radius: 5px;
     border-width: 3px;
-    border-color: black;*/
-    background: gray;
+    border-color: black;
+    background: black;
 }
 
