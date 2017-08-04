@@ -21,6 +21,9 @@ h1 {
    line-height: 10px;
    
 }
+span {
+    font-size: 100;
+}
 
 body, html {
   height: 100%;
