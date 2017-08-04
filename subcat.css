@@ -50,16 +50,15 @@ ADD TO CSS DOC FOR BUTTON (WILL BE RENAMED LOCATION?)
 /*Background Info*/
 
 ul.menu{
-  background-color: white;
-  /*background-position: right bottom, left top;
-  background-repeat: no-repeat, repeat;
-  padding: 15px; */   
+  background-color: white; 
 }
 
+/*
 body {
     background-image: url("https://scontent-dft4-3.xx.fbcdn.net/v/t1.0-9/20622340_1649493488458030_5504497678487335217_n.jpg?oh=a1bac944da9db45746ca9735d256496b&oe=5A29466C");
     background-repeat: repeat-y repeat-x;
 }
+*/
 
 div.cat_name {
   font-family: 'Arsenal';
