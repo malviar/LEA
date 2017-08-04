@@ -4,7 +4,7 @@
      height: 700px;
 }
 .color {
-       background: #C8E3F4
+       background: #C8E3F4;
 }
 
 html { 
@@ -14,9 +14,9 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
-h3 {
+h3
     color: #565857;
-    font-family: url(https://fonts.googleapis.com/css?family=Arsenal);
+    font-family: 'Arsenal' ;
     font-size: 18px;
     line-height: 20px;
     margin: auto;
