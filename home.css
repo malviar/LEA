@@ -22,7 +22,7 @@ h1 {
    line-height: 10px;
    
 }
-.border div {
+.border {
     border-style: solid;
     border-radius: 5px;
     border-width: 3px;
