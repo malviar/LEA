@@ -24,5 +24,14 @@ h1 {
    line-height: 10px;
    
 }
-p.solid {border-style: solid;}
+.border div {
+    display: block;
+    /*padding: 5px;
+    clear: right;
+    width: 100%;
+    border-radius: 5px;
+    border-width: 3px;
+    border-color: black;*/
+    background: gray;
+}
 
