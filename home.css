@@ -1,10 +1,37 @@
-border {
-    border-style: solid;
-    border-radius: 0px;
-    border-width: 5;
-    border-color: black;
-    background: white;
+/* 
+-- ADD THIS TO HOME HTML DOC TO IMPORT SOCIAL MEDIA ICONS --
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+/* Style all font awesome icons
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+
 }
+
+Add a hover effect if you want
+.fa:hover {
+    opacity: 0.7;
+}
+
+Set a specific color for each brand
+
+Facebook
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+Twitter
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+*/
 
 html { 
   background: url(https://scontent-dft4-3.xx.fbcdn.net/v/t1.0-9/20526264_1649307451809967_4228666223613637215_n.jpg?oh=2406ee0faef2705f83344d300e78f047&oe=5A350C8A) no-repeat center center fixed; 
