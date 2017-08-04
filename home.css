@@ -10,6 +10,7 @@ html {
 h3 {
     color: #629460;
     font-family: 'Arsenal';
+    src: url(https://fonts.googleapis.com/css?family=Arsenal);
     font-size: 18px;
     line-height: 20px;
     margin: auto;
