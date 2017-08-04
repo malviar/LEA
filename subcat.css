@@ -57,11 +57,14 @@ body {
 cat_name {
   font-family: 'Arsenal';
   font-size: 40px;
+  color:
 }
 
 cat_desc{
   font-family: 'Arsenal';
   font-size: 30px;
+  color:#000000;
+  text-align: center;
 }
 
 pic{
@@ -70,14 +73,20 @@ pic{
 store_name{
   font-family: 'Arsenal';
   font-size: 25px;
+  color:color:#000000;
+  text-align: center;
 }
 
 description {
   font-family: 'Arsenal';
   font-size: 20px;
+  color:#000000;
+  text-align: center;
 }
 
 location{
   font-family: 'Arsenal';
   font-size: 20px;
+  color:#000000;
+  text-align: center;
 }
