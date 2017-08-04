@@ -54,37 +54,39 @@ body {
     background-repeat: repeat-y repeat-x;
 }
 
-cat_name {
+div.cat_name {
   font-family: 'Arsenal';
   font-size: 40px;
-  color:
+  color:#000000;
 }
 
-cat_desc{
+div.cat_desc{
   font-family: 'Arsenal';
   font-size: 30px;
   color:#000000;
   text-align: center;
 }
 
-pic{
+img.pic{
+  display:block;
+  margin:auto;
 }
 
-store_name{
+div.store_name{
   font-family: 'Arsenal';
   font-size: 25px;
   color:color:#000000;
   text-align: center;
 }
 
-description {
+div.description {
   font-family: 'Arsenal';
   font-size: 20px;
   color:#000000;
   text-align: center;
 }
 
-location{
+div.location{
   font-family: 'Arsenal';
   font-size: 20px;
   color:#000000;
