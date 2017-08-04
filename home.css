@@ -24,3 +24,7 @@ h1 {
    line-height: 10px;
    
 }
+
+h1.solid {border-style: solid;}
+h3.solid {border-style: solid;}
+
