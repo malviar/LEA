@@ -9,7 +9,7 @@ li {
 }
 
 .dropbtn {
-    background-color: Transparent;
+    background-color: white;
     color: #6A8D73;
     padding: 16px;
     font-size: 16px;
@@ -38,12 +38,12 @@ li {
     display: block;
 }
 
-.dropdown-content a:hover {background-color: Transparent;}
+.dropdown-content a:hover {background-color: white;}
 
 .dropdown:hover .dropdown-content {
     display: block;
 }
 
 .dropdown:hover .dropbtn {
-    background-color: Transparent;
+    background-color: white;
 }
