@@ -1,9 +1,9 @@
 html { 
   background: url(https://scontent-dft4-3.xx.fbcdn.net/v/t1.0-9/20526264_1649307451809967_4228666223613637215_n.jpg?oh=2406ee0faef2705f83344d300e78f047&oe=5A350C8A) no-repeat center center fixed; 
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 h3{
     color: #565857;
