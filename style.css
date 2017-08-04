@@ -1,10 +1,50 @@
-h1,p{
-  color:#3F4739;
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
-p{
-  font-size:18px;
+
+li {
+    display: inline;
 }
-/* This font is so ugly. */
-*{
-  font-family:Georgia;
+
+.dropbtn {
+    background-color: white;
+    color: #6A8D73;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #6A8D73;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: white;}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: white;
 }

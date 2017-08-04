@@ -1,0 +1,36 @@
+border {
+    border-style: solid;
+    border-radius: 0px;
+    border-width: 5;
+    border-color: black;
+    background: white;
+}
+
+html { 
+  background: url(https://scontent-dft4-3.xx.fbcdn.net/v/t1.0-9/20526264_1649307451809967_4228666223613637215_n.jpg?oh=2406ee0faef2705f83344d300e78f047&oe=5A350C8A) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h3{
+    color: #565857;
+    font-family: Arial ;
+    font-size: 18px;
+    line-height: 20px;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    top: 1%;ia
+}
+h1 {
+   font-family: Prata;
+   text-align: center;
+   font-size: 150px;
+   line-height: 10px;
+   
+}
+
+
+
