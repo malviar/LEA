@@ -49,30 +49,29 @@ ADD TO CSS DOC FOR BUTTON (WILL BE RENAMED LOCATION?)
 */
 
 cat_name {
-  font-family: '';
+  font-family: 'Arsenal';
   font-size: 40px;
 }
 
 cat_desc{
-  font-family: '';
+  font-family: 'Arsenal';
   font-size: 30px;
 }
 
 pic{
- 
 }
 
 store_name{
-  font-family: '';
+  font-family: 'Arsenal';
   font-size: 25px;
 }
 
 description {
-  font-family: '';
+  font-family: 'Arsenal';
   font-size: 20px;
 }
 
 location{
-  font-family: '';
+  font-family: 'Arsenal';
   font-size: 20px;
 }
