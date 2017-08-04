@@ -5,9 +5,10 @@
   -o-background-size: cover;
   background-size: cover;
 }
+<link href='https://fonts.googleapis.com/css?family=Arsenal' rel='stylesheet'>
 h3 {
     color: #6A8D73;
-    font-family: Quicksand;
+    font-family: 'Arsenal';
     font-size: 18px;
     line-height: 20px;
     margin: auto;
