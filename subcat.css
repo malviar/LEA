@@ -49,7 +49,7 @@ ADD TO CSS DOC FOR BUTTON (WILL BE RENAMED LOCATION?)
 */
 /*Background Info*/
 
-ul{
+ul.menu{
   background-color: white;
   /*background-position: right bottom, left top;
   background-repeat: no-repeat, repeat;
