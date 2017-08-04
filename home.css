@@ -21,8 +21,12 @@ h1 {
    line-height: 10px;
    
 }
-span {
-    font-size: 100;
+
+p {
+    font-family: 'Arsenal';
+    font-size: 25px;
+    line-height: 10px;
+    text-align: center;
 }
 
 body, html {
