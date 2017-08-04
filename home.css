@@ -1,4 +1,11 @@
 <link href='https://fonts.googleapis.com/css?family=Arsenal' rel='stylesheet'>
+.box {
+     width: 1300px;
+     height: 700px;
+}
+.color {
+       background: #C8E3F4
+}
 
 html { 
   background: url(https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/20621947_1648453735228672_1224267812195815113_n.jpg?oh=41fd92a0afc8383cbda927622da50c28&oe=5A00C50A) no-repeat center center fixed; 
