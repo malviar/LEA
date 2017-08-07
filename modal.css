@@ -16,7 +16,7 @@
 /* Modal Content */
 .modal-content {
     position: relative;
-    background-color: #fefefe;
+    background-color: #85D474
     margin: auto;
     padding: 0;
     border: 1px solid #888;
@@ -67,7 +67,6 @@
     background-color: #5cb85c;
     color: white;
 }
-
 
 /* Style the Image Used to Trigger the Modal */
 #myImg {
