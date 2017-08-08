@@ -1,8 +1,8 @@
 <?php
 
 if($_POST["submit"]) {
-    $recipient="your@email.address";
-    $subject="Form to email message";
+    $recipient="maia.alviar@gmail.com";
+    $subject="LEA Feedback";
     $sender=$_POST["sender"];
     $senderEmail=$_POST["senderEmail"];
     $message=$_POST["message"];
@@ -19,7 +19,7 @@ if($_POST["submit"]) {
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Contact form to email</title>
+    <title>Contact Us</title>
 </head>
 
 <body>
@@ -29,13 +29,13 @@ if($_POST["submit"]) {
     <form method="post" action="contact.php">
         <label>Name:</label>
         <input name="sender">
-
-        <label>Email address:</label>
+        <br/>
+        <label>Email:</label>
         <input name="senderEmail">
-
-        <label>Message:</label>
+        <br/>
+        <label>Feedback:</label>
         <textarea rows="5" cols="20" name="message"></textarea>
-
+        <br/>
         <input type="submit" name="submit">
     </form>
 
